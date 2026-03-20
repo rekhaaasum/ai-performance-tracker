@@ -68,7 +68,7 @@ The system includes instructions for:
 
 ## 📈 Impact
 
-### ⏱ 90% Reduction in Review Prep Time  
+### ⏱ 60% Reduction in Review Prep Time  
 Replaced hours of manual digging with a 1-minute automated run.
 
 ### 🎯 Objective, Evidence-Based Reviews  
